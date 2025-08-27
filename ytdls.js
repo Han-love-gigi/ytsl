@@ -4,7 +4,7 @@ const ytdl = require("@distube/ytdl-core")
 const axios = require("axios")
 
 const app = express()
-const PORT = 5020
+const PORT = 3333
 
 const cookies = [
   { name: "VISITOR_INFO1_LIVE", value: "nIadUv8X-so" },
